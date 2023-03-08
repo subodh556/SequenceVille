@@ -14,6 +14,5 @@ As the algorithm runs, the visualizer highlights the current elements being comp
 
 SequenceVille also allow users to adjust the speed of the animation or the size of the list being sorted, which can help to demonstrate the impact of different factors on the sorting process.
 
-Project Deployment :
-<a src="https://subodh556.github.io/SequenceVille/"></a>
+<a src="https://subodh556.github.io/SequenceVille/">Project Deployment</a>
 ### 
