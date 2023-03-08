@@ -13,4 +13,7 @@ The visualizer typically displays the unsorted list in a form of bar. The user c
 As the algorithm runs, the visualizer highlights the current elements being compared or swapped, and updates the display in real-time to show the progress of the sorting. This can be useful for understanding how different algorithms work and comparing their performance.
 
 SequenceVille also allow users to adjust the speed of the animation or the size of the list being sorted, which can help to demonstrate the impact of different factors on the sorting process.
+
+Project Deployment :
+<a src="https://subodh556.github.io/SequenceVille/"></a>
 ### 
