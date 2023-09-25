@@ -1,1 +1,1 @@
-# SequenceVille.github.io
+# SequenceVille
